@@ -35,7 +35,7 @@
 	z-index : -1;
 	width : 100%;
 	height : 100%;
-	background-image : url(Copy1.jpg);
+	background-image : url(IMG_20220308_105107_985.jpg);
 	background-size : cover;
 	background-position : top center;
 }
@@ -96,4 +96,10 @@
 }
 .third-container{
 		background-color : #e3e1da !important;
+}
+.title{
+	color : solid black;
+}
+.maps{
+	height :  100px;
 }
